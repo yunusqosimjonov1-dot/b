@@ -105,9 +105,9 @@ if not RENDER_EXTERNAL_HOSTNAME:
 WEBHOOK_URL = f"https://{RENDER_EXTERNAL_HOSTNAME}{WEBHOOK_PATH}"
 
 # ======================== Bot sozlamalari ========================
-BOT_USERNAME = "kinokodlari_07_bot"
-CHANNEL_USERNAME = "@kinokodlari_07"
-CHANNEL_URL = "https://t.me/kinokodlari_07"
+BOT_USERNAME = "Uzmaxkino_bot"
+CHANNEL_USERNAME = ""
+CHANNEL_URL = ""
 INSTAGRAM_URL = ""
 
 
